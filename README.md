@@ -1,5 +1,3 @@
-# Learning to Teach Fairness-aware Deep Multi-task Learning
-
 [Arjun Roy](https://www.mi.fu-berlin.de/en/inf/groups/ag-KIML/members/Scientific-Staff/Roy/index.html) and [Eirini Ntoutsi](https://www.mi.fu-berlin.de/inf/groups/ag-KIML/members/Professoren/Ntoutsi.html)
 
 

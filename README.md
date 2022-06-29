@@ -5,7 +5,7 @@
 
 <hr/>
 
-![The L2T-FMT architecture.](https://github.com/Swati17293/xyz.github.io/blob/main/assets/img/L2T_Fair_architecture_joined.jpg)
+![The L2T-FMT architecture.](L2T_Fair_architecture_joined.jpg)
 
 <hr/>
 

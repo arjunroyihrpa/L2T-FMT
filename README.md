@@ -10,7 +10,7 @@
 [Paper](https://arxiv.org/pdf/2206.08403v1.pdf), [Code](https://github.com/arjunroyihrpa/L2TFMT)
 
 
-### Abstract
+## Abstract
 
 Fairness-aware learning mainly focuses on single task learning (STL). The fairness implications of multi-task learning (MTL) have only recently been considered and a seminal approach has been proposed that considers the fairness-accuracy trade-off for each task and the performance trade-off among different tasks. Instead of a rigid fairness-accuracy trade-off formulation, we propose a flexible approach that learns how to be fair in a MTL setting by selecting which objective (accuracy or fairness) to optimize at each step. We introduce the L2T-FMT algorithm that is a teacher-student network trained collaboratively; the student learns to solve the fair MTL problem while the teacher instructs the student to learn from either accuracy or fairness, depending on what is harder to learn for each task. Moreover, this dynamic selection of which objective to use at each step for each task reduces the number of trade-off weights from 2T to T , where T is the number of tasks. Our experiments on three real datasets show that L2T-FMT improves on both fairness (12-19%) and accuracy (up to 2%) over state-of-the-art approaches.
 
